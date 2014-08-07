@@ -9,9 +9,9 @@ Grails v 2.1.0
 Update line 68 appID of grails-app/views/pageManager/index.gsp with your Facebook App ID
 
 To Run:
-> cd myGrailsFbApp
-> grails
-grails> run-app
+cd myGrailsFbApp
+grails
+run-app
 
 Open browser to 
 http://localhost:8080/myGrailsFbApp/pageManager
